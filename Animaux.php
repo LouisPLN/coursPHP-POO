@@ -1,11 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Clement
- * Date: 14/10/2021
- * Time: 10:22
- */
-
 class Animaux
 {
     // Variable de connexion à la bdd
