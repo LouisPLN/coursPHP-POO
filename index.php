@@ -34,9 +34,9 @@
         <thead>
             <tr>
                 <th>Id</th>
-                <th>Nom</th>
-                <th>Genre</th>
-                <th>Espèce</th>
+                <th>Noms</th>
+                <th>Genres</th>
+                <th>Espèces</th>
             </tr>
         </thead>
         <tbody>
